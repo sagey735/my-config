@@ -1,0 +1,6 @@
+if SHIELD_MUIEPLV3
+
+config ZMK_KEYBOARD_NAME
+    default "muieplv3"
+
+endif
